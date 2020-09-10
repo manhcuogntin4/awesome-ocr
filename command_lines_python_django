@@ -1,0 +1,18 @@
+virtualenv venv ( virtualenv -p python3 .)
+source bin/activate
+django-admin startproject trydjango
+python manage.py runserver //runserver django
+python manage.py migrate   // migration service
+
+python manage.py createsuperuser // create superuser
+
+python manage.py startapp appname// create an app name appname
+
+python manage.py makemigrations // to build a class before migration
+
+https://docs.djangoproject.com/en/3.1/ref/models/fields/ // doc field
+
+https://docs.djangoproject.com/en/3.1/ref/templates/builtins/
+
+python manage.py shell
+
