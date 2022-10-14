@@ -283,7 +283,7 @@ https://github.com/cisocrgroup
 ```
 目前看到最棒的免费的API  当然也提供商业版
 ```
-Test master
+Test ocr
 ## OCR Databases
 
 
