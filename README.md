@@ -290,7 +290,6 @@ https://github.com/cisocrgroup
 
 ## OTHERS
 
-* [pics for testing 测试用图片 ]() 链接: http://pan.baidu.com/s/1jGNIjPG 密码: 3izf
 
 
 
